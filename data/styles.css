@@ -69,6 +69,14 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .tree_node {
   text-align:left;
 }
